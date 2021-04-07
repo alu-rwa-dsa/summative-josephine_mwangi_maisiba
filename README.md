@@ -1,5 +1,5 @@
 # Maze Generator
-###By Group 2:
+### By Group 2:
 1. Josephine Uwizeye
 2. Samwel Maisiba
 3. Modester Mwangi

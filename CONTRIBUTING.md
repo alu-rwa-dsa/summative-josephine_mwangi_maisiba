@@ -1,6 +1,6 @@
-###Guidelines 
+### Guidelines 
 
-###Tasks Dividing
+### Tasks Dividing
 | Modester              | Samwel               | Josephine         |
 | --------------------- | -------------------- | ----------------- |
 | Project Description   | Motivation Behind Our Project  | Purpose of Data Structures and Algorithm Used |
