@@ -1,5 +1,5 @@
 # Maze Generator
-### By Group 2:
+### Group Members:
 1. Josephine Uwizeye
 2. Samwel Maisiba
 3. Modester Mwangi
