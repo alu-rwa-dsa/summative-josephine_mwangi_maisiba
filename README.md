@@ -38,6 +38,26 @@ Stacks will be used where the last cell visited is the first cell to be popped i
 solvers as users are required to use logic in finding paths. During this pandemic, many countries are in lockdown. Most schools have been closed, and many students are at home idle. By them playing this game, it will enable them to 
 be active, entertained and as well learning.
 
+### Technology Used
+* Python Programming Language
+
+### Project File Structure
+* Create a Graphical User Interface using Tkinter.
+* Create a grid for cell space connecting all neighbour cells resulting to connectivity graph.
+* Assign random weights to every edge of the graph.
+* Remove grid wall resulting to a perfect maze.
+
+
+
+
+
+### How to Run Application
+* To run Application. Download and Install Tkinter.
+* To play Maze, sign up with your email and Names to have an account.
+* To start game click on the play button.
+
+
+
 ### Bibliography
 Harder, D., 2012. Maze Generation | Algorithms and Data Structures | University of Waterloo. [online] Ece.uwaterloo.ca. <https://ece.uwaterloo.ca/~dwharder/aads/Algorithms/Maze_generation/> 
 [Accessed 7 April 2021].
