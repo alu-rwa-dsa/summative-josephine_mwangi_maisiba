@@ -42,7 +42,7 @@ be active, entertained and as well learning.
 * Python Programming Language
 
 ### Project File Structure
-* Create a Graphical User Interface using Tkinter.
+* Create a Graphical User Interface and animation we used pygame.
 * Create a grid for cell space connecting all neighbour cells resulting to connectivity graph.
 * Assign random weights to every edge of the graph.
 * Remove grid wall resulting to a perfect maze.
@@ -52,7 +52,7 @@ be active, entertained and as well learning.
 
 
 ### How to Run Application
-* To run Application. Download and Install Tkinter.
+* To run Application. Download and Install package pygame.
 * To play Maze, sign up with your email and Names to have an account.
 * To start game click on the play button.
 
