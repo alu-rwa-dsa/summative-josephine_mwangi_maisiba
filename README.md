@@ -24,8 +24,6 @@ Depth First Search  traversal algorithm implemented using backtracking. This wil
 all cells in the grid by backtracking through the visited to unvisited cells using stacks.
 Stacks will be used where the last cell visited is the first cell to be popped in backtracking.
 
-
-
 ### Purpose of Project
 * Creating a game for Entertainment and Leisure during this pandemic.
 * Show application of Graphs and applying learnt skills in this topic.
@@ -46,15 +44,27 @@ be active, entertained and as well learning.
 * Create a grid for cell space connecting all neighbour cells resulting to connectivity graph.
 * Assign random weights to every edge of the graph.
 * Remove grid wall resulting to a perfect maze.
-
-
-
+* Include Test Cases
 
 
 ### How to Run Application
 * To run Application. Download and Install package pygame.
 * To play Maze, sign up with your email and Names to have an account.
 * To start game click on the play button.
+
+### Correctness of Algorithm
+* Given a function to create full maze:
+with looping variant containing number of visited cells in 
+a stack list.
+* (0 < length(stack) given function (x + w, y) to indicate a cell in east direction.
+* If the cell is not visited and is in the frame, then it cannot be added in the stack list rather it will be 
+added in list of unvisited cell.
+* This is correct because a stack only cells that are visited, this will make program run through the unvisited cells in the grid
+creating a full maze.
+
+  
+### Analysis of Algorithm
+
 
 
 
@@ -67,6 +77,14 @@ Internet, C., 2020. Random Maze Generator < JavaScript | The Art of Web. [online
 
 Blades, A., 2020. Solving mazes with Depth-First Search. [online] Medium. Available at:
  <https://medium.com/swlh/solving-mazes-with-depth-first-search-e315771317ae> [Accessed 7 April 2021].
+
+Makeschool.com. 2021. Generating a Maze with DFS | Trees and Mazes. [online] Available at: 
+<https://www.makeschool.com/mediabook/oa/tutorials/trees-and-mazes/generating-a-maze-with-dfs/> 
+[Accessed 25 April 2021].
+
+Mathsisfun.com. 2021. Hexadecimal / Decimal Colors. [online] Available at: <https://www.mathsisfun.com/hexadecimal-decimal-colors.html> 
+[Accessed 25 April 2021].
+
 
 
 
