@@ -5,7 +5,7 @@
 3. Modester Mwangi
 ### Project Description
 
-This project is for create a game called the Maze Generator. The maze is created by a prearrangement of cell that will be 
+This project is about a game called the Maze Generator which we have created. The maze is created by a prearrangement of cell that will be 
 inform of rectangular grids with wall sites in between them.
 The predetermined arrangement will be considered as a connected graph with edges representing the pathways and nodes representing the cells.
 The purpose of the maze generator algorithm is to make a subgraph that is challenging for users
