@@ -64,6 +64,8 @@ creating a full maze.
 
   
 ### Analysis of Algorithm
+![Space Complexity](http://www.sciweavers.org/upload/Tex2Img_1619387817/render.png)
+![Time Complexity](http://www.sciweavers.org/upload/Tex2Img_1619387599/render.png)
 
 
 
