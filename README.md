@@ -73,7 +73,7 @@ This game will keep them entertained and also boost their knowledge because the 
 The game will also help students in colleges to be aware of the application of Data Structures Graphs in real-life scenarios.
 
 ### Recording of The Presentation
-![Presentation](zoom_2.mp4)
+![Presentation](https://github.com/alu-rwa-dsa/summative-josephine_mwangi_maisiba/blob/main/zoom_2.mp4)
 
 
 ### Bibliography
