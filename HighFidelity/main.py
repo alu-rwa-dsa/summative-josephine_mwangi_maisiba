@@ -143,13 +143,13 @@ def shortestpath_backtostart(x_axis, y_axis):
         time.sleep(.1)
 
 
- # x_axis, y_axis = 20, 20
 create_frame(40, 0, 20)
 create_maze(20, 20)
 shortestpath_backtostart(400, 400)
 
-#loop through the game
+
 play = True
+#loop through the game
 while play:
     # keep running at the at the right speed
     timing.tick(frame_rater)

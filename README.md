@@ -38,6 +38,7 @@ be active, entertained and as well learning.
 
 ### Technology Used
 * Python Programming Language
+* Pycharm IDE
 
 ### Project File Structure
 * Create a Graphical User Interface and animation we used pygame.
@@ -49,8 +50,7 @@ be active, entertained and as well learning.
 
 ### How to Run Application
 * To run Application. Download and Install package pygame.
-* To play Maze, sign up with your email and Names to have an account.
-* To start game click on the play button.
+
 
 ### Correctness of Algorithm
 * Given a function to create full maze:
@@ -67,7 +67,13 @@ creating a full maze.
 ![Space Complexity](http://www.sciweavers.org/upload/Tex2Img_1619387817/render.png)
 ![Time Complexity](http://www.sciweavers.org/upload/Tex2Img_1619387599/render.png)
 
+### Solution Description
+During this Pandemic, a lot of children are not in school but rather at home. This also counts for those who are in school and are able to go home each day. During this time, parents are busy working to fend for their families and due to this, they have no time to play with their children. At this time, kids are bored while others are getting depressed because they are not active. In order to curb this problem, we created a Maze Generator for children at home to play during their leisure in order to keep their minds active and free for idleness.
+This game will keep them entertained and also boost their knowledge because the game entails solving patterns while looking for the shortest path in the maze.
+The game will also help students in colleges to be aware of the application of Data Structures Graphs in real-life scenarios.
 
+### Recording of The Presentation
+![img.png](img.png)
 
 
 ### Bibliography
